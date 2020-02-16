@@ -5,7 +5,7 @@ title = "Civic, Citizen and Grassroots Science: Towards a Transformative Scienti
 date = "2013-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Don Blair", Jessica Breen", "Shannon Dosemagen", "Mathew Lippincott", "Liz Barry"]
+authors = ["Don Blair", "Jessica Breen", "Shannon Dosemagen", "Mathew Lippincott", "Liz Barry"]
 
 # Publication type.
 # Legend:
