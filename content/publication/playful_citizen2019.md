@@ -2,7 +2,7 @@
 title = "Public Laboratory: Play and civic engagement"
 
 # Date first published.
-date = "2015-09-26"
+date = "2019-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jessica Breen", "Shannon Dosemagen", "Don Blair", "Liz Barry"]
