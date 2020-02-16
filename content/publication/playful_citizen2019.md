@@ -19,7 +19,7 @@ authors = ["Jessica Breen", "Shannon Dosemagen", "Don Blair", "Liz Barry"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "In *The Playful Citizen: Civic Engagement in a Mediatized Culture*, R Glas, S Lammes, M de Lange, J Raessens, & I de Vries, Eds. Amsterdam: Amsterdam University Press"
+publication = "In *The Playful Citizen: Civic Engagement in a Mediatized Culture*. R Glas, S Lammes, M de Lange, J Raessens, & I de Vries, Eds. Amsterdam: Amsterdam University Press"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -27,7 +27,7 @@ abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "playful_citizen.jpeg"
 
 # Is this a selected publication? (true/false)
 selected = true
