@@ -33,10 +33,10 @@ education:
     year: 
   - course: MS in Environmental Studies
     institution: College of Charleston
-    year: 2011
+    year: 
   - course: BA in Political Science
     institution: University of South Carolina
-    year: 2002
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
