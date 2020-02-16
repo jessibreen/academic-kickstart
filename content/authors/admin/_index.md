@@ -71,4 +71,4 @@ email: ""
 # - Visitors
 ---
 
-Jessica Breen is a PhD Candidate in Geography at the University of Kentucky. Her research interests include digital geographies, urban geography, critical mapping and GIS, and civic engagement. She is a fellow with the New Mappings Collabortory and a research assistant for The Food Connection, both at the University of Kentucky.
+Jessica Breen is a PhD Candidate in Geography at the University of Kentucky. Her research interests include digital geographies, urban geography, critical mapping and GIS, and civic engagement. She is a fellow with the New Mappings Collaboratory and a research assistant for The Food Connection, both at the University of Kentucky.
