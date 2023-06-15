@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Geography
+role: Program Director for Geospatial Research Support
 
 # Organizations/Affiliations
 organizations:
-- name: University of Kentucky
+- name: American University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD Candidate in Geography
+  - course: PhD in Geography
     institution: University of Kentucky
     year: 
   - course: MS in Environmental Studies
@@ -71,4 +71,4 @@ email: ""
 # - Visitors
 ---
 
-Jessica Breen is a PhD Candidate in Geography at the University of Kentucky. Her research interests include digital geographies, urban geography, critical mapping and GIS, and civic engagement. She is a fellow with the New Mappings Collaboratory and a research assistant for The Food Connection, both at the University of Kentucky.
+Jessica Breen, PhD, serves as the Program Director for Geospatial Research Support at American University in Washington, D.C. A graduate of the University of Kentucky, she applies her knowledge in digital and critical mapping as well as GIS to facilitate geospatial research and teaching at the university. She assists faculty and students with the utilization of geospatial tools, offers guidance in data management, and leads the development of the University Library's geospatial literacy program. Her responsibilities also include overseeing the Geospatial Research Lab. Dr. Breen's work reflects her dedication to the integration of geography, technology, and society.
