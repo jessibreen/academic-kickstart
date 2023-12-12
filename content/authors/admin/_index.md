@@ -18,7 +18,9 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests can be summed up as creativity, code, and cities. I'm interested in how people operationalize art and creativity to create the kinds of communities and cities they want to live in.
+bio: Dr. Jessica Breen is a critical human geographer whose work delves into the interplay between digital and physical worlds as they shape urban spaces. Her research focuses on digital geographies and creative placemaking, utilizing mapping and visual data to understand how these interconnected realms enable us to craft the environments we desire for living and working.
+
+As the Program Director for Geospatial Research Support, Dr. Breen leads initiatives to integrate geospatial tools and data into research and teaching across disciplines. She oversees efforts in enhancing GIS applications in classroom settings, supporting faculty and students in harnessing spatial analysis for diverse academic projects, and fostering practical GIS skills that bridge academic theory with real-world challenges.
 
 interests:
 - Digital Geographies
